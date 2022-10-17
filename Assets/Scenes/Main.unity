@@ -1098,7 +1098,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fcf038bf9094cfe449576bff8992bea2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  key_openweather: aaf0e01f42167306177e7108e864ba05
+  key_openweather: 
   base_openweather_url: https://api.openweathermap.org/data/2.5/weather
   lat: 13.7245599
   lon: 100.4926806
